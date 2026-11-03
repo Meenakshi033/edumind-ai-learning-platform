@@ -1,0 +1,8 @@
+streamlit run edumind_app.py
+
+
+python -m streamlit run "C:\Users\Meenakshi\Desktop\EduMind\edumind_app.py"
+
+
+
+python -m streamlit run edumind_app.py
